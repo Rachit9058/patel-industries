@@ -3301,9 +3301,8 @@ blockquote p {
 .service-single {
     background: #fff;
     box-shadow: 0 5px 83px 0 rgba(40, 40, 40, 0.11);
-    padding: 30px;
+    padding: 15px;
     position: relative;
-    height: 550px;
     border-radius: 12px;
 }
 
@@ -3319,9 +3318,7 @@ blockquote p {
 }
 
 .service-single .service-icon img {
-    width: 140px;
-    height: 140px;
-    border-radius: 50%;
+    height: 240px;
     border: 4px solid #8a615c;
     padding: 5px;
 }
@@ -3347,7 +3344,7 @@ blockquote p {
 
 .service-content .main-btn {
     margin-top: 3px;
-    position: absolute;
+    /* position: absolute; */
     bottom: 15px;
 }
 
@@ -7972,4 +7969,12 @@ ul.contact-list li i {
 
 .service-content h4 {
     text-align: center;
+}
+
+.service-content {
+    text-align: center;
+}
+
+.service-content p {
+    height: 50px;
 }

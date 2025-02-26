@@ -127,13 +127,8 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">Strecth Film Line</a></h4>
-                        <hr>
                         <p>The most versatile and durable packaging solution for various industries.</p>
-                        <ul class="list-unstyled service-list">
-                            <li><i class="las la-check"></i> High-strength & flexible</li>
-                            <li><i class="las la-check"></i>Protects products from moisture and dust</li>
-                            <li><i class="las la-check"></i> Available in multiple thicknesses</li>
-                        </ul>
+                        <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
                 </div>
@@ -143,13 +138,8 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">Printing Facility</a></h4>
-                        <hr>
                         <p>Eco-friendly bags designed for a sustainable future.</p>
-                        <ul class="list-unstyled service-list">
-                            <li><i class="las la-check"></i> 100% biodegradable & compostable</li>
-                            <li><i class="las la-check"></i>Reduces plastic waste impact </li>
-                            <li><i class="las la-check"></i>Suitable for food & retail packaging </li>
-                        </ul>
+                        <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
                 </div>
@@ -159,14 +149,8 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">VCI BAGS</a></h4>
-                        <hr>
                         <p>Anti-corrosion packaging for metal components.</p>
-
-                        <ul class="list-unstyled service-list">
-                            <li><i class="las la-check"></i>Protects against rust and oxidation</li>
-                            <li><i class="las la-check"></i>Ideal for industrial and automotive sectors</li>
-                            <li><i class="las la-check"></i>Long-lasting protection without additional coatings</li>
-                        </ul>
+                        <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
                 </div>
@@ -177,14 +161,8 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">PP Valve Type Bag</a></h4>
-                        <hr>
                         <p>Lightweight yet durable bags for bulk storage.</p>
-
-                        <ul class="list-unstyled service-list">
-                            <li><i class="las la-check"></i>Tear-resistant and moisture-proof</li>
-                            <li><i class="las la-check"></i>Ideal for grains, fertilizers, and industrial materials</li>
-                            <li><i class="las la-check"></i>Custom printing available for branding</li>
-                        </ul>
+                        <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
                 </div>
@@ -195,14 +173,8 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">Polyoly Shrink Film Roll</a></h4>
-                        <hr>
                         <p>Multi-layered packaging for extra strength and barrier protection.</p>
-
-                        <ul class="list-unstyled service-list">
-                            <li><i class="las la-check"></i>Preserves product freshness</li>
-                            <li><i class="las la-check"></i>Ideal for food and pharmaceutical packaging</li>
-                            <li><i class="las la-check"></i>Enhances shelf life with superior sealing</li>
-                        </ul>
+                        <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
                 </div>
@@ -212,14 +184,8 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">FIBC Bag</a></h4>
-                        <hr>
                         <p>Heavy-duty bulk packaging solution.</p>
-
-                        <ul class="list-unstyled service-list">
-                            <li><i class="las la-check"></i>Large capacity for industrial materials</li>
-                            <li><i class="las la-check"></i>UV-resistant and weatherproof</li>
-                            <li><i class="las la-check"></i>Customizable sizes and lifting options</li>
-                        </ul>
+                        <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
                 </div>
@@ -230,14 +196,8 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">Lamination Line</a></h4>
-                        <hr>
                         <p>Efficient packaging for powdered and granular materials.</p>
-
-                        <ul class="list-unstyled service-list">
-                            <li><i class="las la-check"></i>Quick filling with automatic valve closure</li>
-                            <li><i class="las la-check"></i>Reduces spillage and improves handling</li>
-                            <li><i class="las la-check"></i>Used in cement, chemicals, and food industries</li>
-                        </ul>
+                        <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
                 </div>
@@ -248,14 +208,8 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">Extrusion Line</a></h4>
-                        <hr>
                         <p>High-quality wrapping film for pallet protection.</p>
-
-                        <ul class="list-unstyled service-list">
-                            <li><i class="las la-check"></i> Superior stretchability and puncture resistance</li>
-                            <li><i class="las la-check"></i>Protects goods during transit and storage</li>
-                            <li><i class="las la-check"></i>Enhances load stability and reduces waste</li>
-                        </ul>
+                        <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
                 </div>
@@ -265,14 +219,8 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">Polyolefin Shrink Film</a></h4>
-                        <hr>
                         <p>Reliable packaging film for tight and secure wrapping.</p>
-
-                        <ul class="list-unstyled service-list">
-                            <li><i class="las la-check"></i> Excellent clarity and shrink ratio</li>
-                            <li><i class="las la-check"></i> Protects products from dust and tampering</li>
-                            <li><i class="las la-check"></i>Ideal for food, beverage, and retail packaging</li>
-                        </ul>
+                        <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
                 </div>
@@ -283,14 +231,8 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">Compostable</a></h4>
-                        <hr>
                         <p>A premium shrink film solution.</p>
-
-                        <ul class="list-unstyled service-list">
-                            <li><i class="las la-check"></i> High clarity and smooth sealing</li>
-                            <li><i class="las la-check"></i> Eco-friendly alternative to traditional plastics</li>
-                            <li><i class="las la-check"></i>Suitable for multipurpose applications</li>
-                        </ul>
+                        <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
                 </div>
@@ -326,7 +268,7 @@
                 </div>
                 <div class="col-xl-5">
                     <div class="choose-us-img">
-                        <img src="assets/img/choose-us.jpg" alt="">
+                        <img src="assets/img/product/FIBC BAG.jpg" alt="">
 
                     </div>
                 </div>
