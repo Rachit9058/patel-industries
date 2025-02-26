@@ -7,7 +7,8 @@
             <div class="container-fluid">
                 <div class="header-inner-box">
                     <div class="logo">
-                        <a class="navbar-brand" href="#"><img height="100" src="assets/img/patel-logo1.png" alt=""></a>
+                        <a class="navbar-brand" href="index.php"><img height="100" src="assets/img/patel-logo1.png"
+                                alt=""></a>
                     </div>
 
                     <div class="main-menu">
@@ -23,14 +24,14 @@
                             <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                                 <ul class="navbar-nav m-auto">
                                     <li class="nav-item">
-                                        <a class="nav-link " href="#">Home
+                                        <a class="nav-link " href="index.php">Home
                                             <span class="sub-nav-toggler"> </span>
                                         </a>
 
                                     </li>
 
                                     <li class="nav-item">
-                                        <a class="nav-link " href="#">About Us
+                                        <a class="nav-link " href="about.php">About Us
                                             <span class="sub-nav-toggler"> </span>
                                         </a>
                                     </li>
@@ -53,7 +54,7 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Contact Us</a>
+                                        <a class="nav-link" href="contact.php">Contact Us</a>
                                     </li>
                                 </ul>
                             </div>

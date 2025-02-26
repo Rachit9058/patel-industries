@@ -1,3 +1,22 @@
+<!-- CTA -->
+<div class="cta-area-2 dark-bg">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-xl-5 col-lg-6">
+                <div class="section-title">
+                    <h2>Let’s Get Your Packaging Started!</h2>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-6 offset-xl-1">
+                <div class="cta-btn-2 mt-20">
+                    <a href="#" class="main-btn">Reqest a Quote</a>
+                    <a href="#" class="main-btn white">Contact with Us</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <footer class="footer-area">
     <div class="container">
         <div class="footer-up">
