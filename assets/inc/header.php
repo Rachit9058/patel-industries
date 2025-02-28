@@ -40,11 +40,11 @@
                                             <span class="sub-nav-toggler"> </span>
                                         </a>
                                         <ul class="sub-menu">
-                                            <li><a href="#">Strecth Film Line</a></li>
-                                            <li><a href="#">Printing Facility</a></li>
-                                            <li><a href="#">VCI BAGS</a></li>
-                                            <li><a href="#">PP Valve Type Bag-</a></li>
-                                            <li><a href="#">Polyoly Shrink Film Roll</a></li>
+                                            <li><a href="strecth-film-line.php">Strecth Film Line</a></li>
+                                            <li><a href="printing-facility.php">Printing Facility</a></li>
+                                            <li><a href="vci-bags.php">VCI BAGS</a></li>
+                                            <li><a href="pp-valve-type-bag.php">PP Valve Type Bag</a></li>
+                                            <li><a href="polyoly-shrink-film-roll.php">Polyoly Shrink Film Roll</a></li>
                                             <li><a href="#">FIBC Bag</a></li>
                                             <li><a href="#">Lamination Line</a></li>
                                             <li><a href="#">Extrusion Line</a></li>
