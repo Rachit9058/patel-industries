@@ -13,15 +13,19 @@
                                 class="las la-long-arrow-alt-right"></i></span></a></li>
                 <li class="d-block "><a href="polyoly-shrink-film-roll.php">Polyoly Shrink Film Roll<span> <i
                                 class="las la-long-arrow-alt-right"></i></span></a></li>
-                <li class="d-block "><a href="#!">FIBC Bag<span> <i class="las la-long-arrow-alt-right"></i></span></a>
+                <li class="d-block "><a href="fibc-bag.php">FIBC Bag<span> <i
+                                class="las la-long-arrow-alt-right"></i></span></a>
                 </li>
-                <li class="d-block "><a href="#!">Lamination Line<span> <i
+                <li class="d-block "><a href="lamination-line.php">Lamination Line<span> <i
                                 class="las la-long-arrow-alt-right"></i></span></a></li>
-                <li class="d-block "><a href="#!">Extrusion Line<span> <i
+                <li class="d-block "><a href="extrusion-line.php">Extrusion Line<span> <i
                                 class="las la-long-arrow-alt-right"></i></span></a></li>
-                <li class="d-block "><a href="">Polyolefin Shrink Film<span> <i
+                <li class="d-block "><a href="polyolefin-shrink-film.php">Polyolefin Shrink Film<span> <i
                                 class="las la-long-arrow-alt-right"></i></span></a></li>
-                <li class="d-block "><a href="#!">Compostable<span> <i
+                <li class="d-block "><a href="compostable.php">Compostable<span> <i
+                                class="las la-long-arrow-alt-right"></i></span></a></li>
+
+                <li class="d-block "><a href="paper-bag.php">Paper Bag<span> <i
                                 class="las la-long-arrow-alt-right"></i></span></a></li>
 
             </ul>

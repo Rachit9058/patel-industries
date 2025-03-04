@@ -45,11 +45,12 @@
                                             <li><a href="vci-bags.php">VCI BAGS</a></li>
                                             <li><a href="pp-valve-type-bag.php">PP Valve Type Bag</a></li>
                                             <li><a href="polyoly-shrink-film-roll.php">Polyoly Shrink Film Roll</a></li>
-                                            <li><a href="#">FIBC Bag</a></li>
-                                            <li><a href="#">Lamination Line</a></li>
-                                            <li><a href="#">Extrusion Line</a></li>
-                                            <li><a href="#">Polyolefin Shrink Film</a></li>
-                                            <li><a href="#">Compostable</a></li>
+                                            <li><a href="fibc-bag.php">FIBC Bag</a></li>
+                                            <li><a href="lamination-line.php">Lamination Line</a></li>
+                                            <li><a href="extrusion-line.php">Extrusion Line</a></li>
+                                            <li><a href="polyolefin-shrink-film.php">Polyolefin Shrink Film</a></li>
+                                            <li><a href="compostable.php">Compostable</a></li>
+                                            <li><a href="paper-bag.php">Paper Bag</a></li>
                                         </ul>
                                     </li>
 

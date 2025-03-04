@@ -9,14 +9,14 @@
     <title>Patel Industries</title>
 
     <!-- Header-Links-->
-    <?php include 'assets/inc/header-links.php';?>
+    <?php include 'assets/inc/header-links.php'; ?>
 
 </head>
 
 <body>
 
     <!-- Header Area -->
-    <?php include 'assets/inc/header.php';?>
+    <?php include 'assets/inc/header.php'; ?>
 
     <!-- Hero Area -->
 
@@ -179,7 +179,7 @@
                 </div>
                 <div class="service-single">
                     <div class="service-icon">
-                        <img src="assets/img/product/FIBC BAG.jpg" alt="">
+                        <img src="assets/img/product/fibc.jpeg" alt="">
                     </div>
                     <div class="service-content">
                         <h4><a href="#">FIBC Bag</a></h4>
@@ -230,6 +230,18 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">Compostable</a></h4>
+                        <p>A premium shrink film solution.</p>
+                        <hr>
+                        <a class="main-btn primary" href="#">Read More</a>
+                    </div>
+                </div>
+
+                <div class="service-single">
+                    <div class="service-icon">
+                        <img src="assets/img/product/papaer-bag.jpeg" alt="">
+                    </div>
+                    <div class="service-content">
+                        <h4><a href="#"> Paper Bag</a></h4>
                         <p>A premium shrink film solution.</p>
                         <hr>
                         <a class="main-btn primary" href="#">Read More</a>
@@ -403,11 +415,11 @@
 
     <!-- Footer Area -->
 
-    <?php include 'assets/inc/footer.php';?>
+    <?php include 'assets/inc/footer.php'; ?>
 
 
     <!-- Footer-Links-->
-    <?php include 'assets/inc/footer-links.php';?>
+    <?php include 'assets/inc/footer-links.php'; ?>
 
 </body>
 
