@@ -230,7 +230,7 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#">Compostable</a></h4>
-                        <p>A premium shrink film solution.</p>
+                        <p>Its eco friendly compostable film</p>
                         <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
@@ -242,7 +242,7 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="#"> Paper Bag</a></h4>
-                        <p>A premium shrink film solution.</p>
+                        <p>Its pp laminated paper bag for pharma/ chemical industry</p>
                         <hr>
                         <a class="main-btn primary" href="#">Read More</a>
                     </div>
