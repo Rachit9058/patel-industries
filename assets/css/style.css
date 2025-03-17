@@ -7990,3 +7990,21 @@ ul.contact-list li i {
     top: 120px;
     height: 100%;
 }
+
+ul.map-serv {
+    display: grid;
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.map-service {
+    padding: 40px;
+}
+
+.map-service h2 {
+    font-size: 30px;
+}
+
+ul.map-serv li {
+    font-size: 16px;
+}

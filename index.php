@@ -321,6 +321,52 @@
         </div>
     </div>
 
+
+
+
+
+
+
+    <section class="map">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="mapimg">
+                        <img src="assets/img/indialarge.gif" alt="">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="map-service">
+                        <h2>Our Service Area</h2>
+                        <ul class="map-serv">
+                            <li>👉 Rajasthan</li>
+                            <li>👉 Gujarat</li>
+                            <li>👉 Punjab</li>
+                            <li>👉 Haryana</li>
+                            <li>👉 Uttarakhand</li>
+                            <li>👉 Madhya Mradesh</li>
+                            <li>👉 Maharashtra</li>
+                            <li>👉 Udisha</li>
+                            <li>👉 Telangana</li>
+                            <li>👉 Arunachal Pradesh</li>
+                            <li>👉 Tamilnadu</li>
+                            <li>👉 West Bengal</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
     <!--Testimonial Area-->
     <div class="testimonial-area-2 section-padding">
         <div class="testimonial-map" style="background-image: url(assets/img/testimonial-map.png)"></div>
